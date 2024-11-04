@@ -68,3 +68,27 @@ To run this project locally, follow these steps:
 ## Folder Structure
 
 weatherio/ ├── assets/ # Icons and images ├── css/ # CSS files ├── js/ # JavaScript files ├── index.html # Main HTML file ├── README.md # Project README
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or want to add new features, feel free to create a pull request.
+
+### Steps to Contribute
+
+1. Fork this repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Open a pull request.
+
+## Contact
+
+Created by [Sahil Bhowmick](https://github.com/Sahil-Bhowmick) - feel free to contact me!
+
+## Acknowledgments
+
+- [OpenWeather API](https://openweathermap.org/) for providing weather data.
+- [Font Awesome](https://fontawesome.com/) for icons.
+- TailwindCSS for utility-first styling.
+
